@@ -45,7 +45,7 @@ const Header = () => {
                         <button className="bg-gray-200 hover:bg-gray-300 rounded-full p-2 w-10 h-10 flex items-center justify-center">
                             <svg className="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"/></svg>
                         </button>
-                        <img src="https://picsum.photos/id/43/40/40" alt="Profile" className="w-10 h-10 rounded-full cursor-pointer" />
+                        <img src="https://media.licdn.com/dms/image/v2/D4D03AQHiNXiYyk1sOQ/profile-displayphoto-scale_400_400/B4DZg4wU6.GQAg-/0/1753298851375?e=1756944000&v=beta&t=TLap6KZPwnuhoI0quW5rC6Mxyy78Yu3AF-MHl5BqkVc" alt="Profile" className="w-10 h-10 rounded-full cursor-pointer" />
                     </div>
                 </div>
             </div>
