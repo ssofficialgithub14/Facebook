@@ -41,7 +41,7 @@ export const MOCK_POSTS: Post[] = [
     },
     timestamp: "7d ago",
     content: "🙌 Shoutout for the Best Post from React Kolkata!A huge shoutout to Saurabh Sahgal for sharing the most impactful post about our first-ever React Kolkata event!Your words beautifully captured the energy of the day — insightful talks, vibrant conversations, and the birth of a thriving React/JS community right here in Kolkata Seeing the event through your lens truly meant a lot to all of us who poured our hearts into making it happen. ",
-    imageUrl: "https://media.licdn.com/dms/image/v2/D4D22AQG22FsHgOBJXg/feedshare-shrink_2048_1536/B4DZgsBme9G8Ao-/0/1753085278062?e=1756944000&v=beta&t=yZ2bBAPxZqEd8ujVaz5QY6AWmGn3ITcnIzoVk9lxm_Q",
+    imageUrl: "https://media.licdn.com/dms/image/v2/D4D22AQEVYPyMsLT0oA/feedshare-shrink_2048_1536/B4DZhKCoDkH4As-/0/1753588860346?e=1756944000&v=beta&t=I2wogC23uKXyA6cZbKNGPVixM1Egv-GyEOV_ROirhZA",
     likes: 7800,
     comments: 321,
     shares: 256,
