@@ -15,7 +15,10 @@ export const MOCK_USER: User = {
     joined: "October 2004",
   },
   photos: [
-    ,
+    "https://scontent.frdp5-1.fna.fbcdn.net/v/t51.75761-15/490655746_18307828789235948_4554109076319135378_n.webp?stp=dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Fh9m8wQL3-QQ7kNvwGKNXVV&_nc_oc=Adk8wOefh59pSO5AQa7qpWIeNTdO7do_P4J9tKKSyfvfK71z8bSCO3ZQa2_ywgcz51I&_nc_zt=23&_nc_ht=scontent.frdp5-1.fna&_nc_gid=lm7YfjjgTtfo8qREFhu--w&oh=00_AfS3oyUjwlX0c7ZNhzHS7uRC95V1E_LXXPDcRMbwoSwI3g&oe=6893EDF5",
+    "https://scontent.frdp5-1.fna.fbcdn.net/v/t51.75761-15/491516573_18307828798235948_8813605511499960749_n.webp?stp=dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TQbgeC_9GTQQ7kNvwHXq2_Y&_nc_oc=Adky7vyPlmcKf27thh95I5X9VaEzPK3SdGkcZ0mbQUwP9sqxJrtJNqgbT0Wd1dhXsh8&_nc_zt=23&_nc_ht=scontent.frdp5-1.fna&_nc_gid=QQqSmyXrPOFGW2Si1AKg9g&oh=00_AfSdZ_Cb-BwxetBAipWG06XKu0rk4_Fe_qdCX7l1xRMwdQ&oe=6893DB2C",
+    "https://scontent.frdp5-1.fna.fbcdn.net/v/t51.75761-15/491514022_18307828807235948_6136622544736868761_n.webp?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ARMMMUPkAVAQ7kNvwFMBjZy&_nc_oc=AdmFnz24d3Ar-QGDJC-dZ2jHHrLYOcso9azgYqZv_mYAx696nzqAvb6pNV-6snD6CnA&_nc_zt=23&_nc_ht=scontent.frdp5-1.fna&_nc_gid=dBrbcKIQBKJrcbRtWSMnuA&oh=00_AfQZK-oVZsOSDikj1LNKdtMV43-hXy0Q2RSts143kS5doQ&oe=6893E023",
+    "https://scontent.frdp5-1.fna.fbcdn.net/v/t51.75761-15/491508102_18307828816235948_4458620142613284012_n.webp?stp=dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RJiWP-DZzlEQ7kNvwH37gkK&_nc_oc=AdmFZBWTeHwPHuNLzSxbCto3bgV2IIx9HoFB6N4d1mzp_WwTrYMpQ4umNP6U8BA8zDE&_nc_zt=23&_nc_ht=scontent.frdp5-1.fna&_nc_gid=LPQl7IRu0lUPqvJxYLX9ig&oh=00_AfTmvjUf-VtpatwB1eFGLE1xoQBgtJ1bZWrr5jmGD8XVqA&oe=6893F5DC",
   ],
 };
 
