@@ -7,6 +7,9 @@ Welcome to my Facebook UI Clone! This project is a frontend replica of Facebook�
 ## 📸 Live Demo
 
 🌍 [Visit Live Website](https://srfacebookpageproduction.vercel.app/)
+![Visitor Count](https://komarev.com/ghpvc/?username=ssofficialgithub14&label=Visitors)
+
+
 
 ---
 
