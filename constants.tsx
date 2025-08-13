@@ -10,8 +10,8 @@ export const MOCK_USER: User = {
   followers: "7.2B",
   likes: "1.2B",
   intro: {
-    details: "🎓 CS Student | Full Stack Developer [MERN] | C++ & Java Practitioner | System Thinker | Focused on Scalable Solutions | Lifelong Learner | Building Beyond Code.",
-    website: "www.linkedin.com/in/sauravofficial14/",
+    details: "🎓 CS Student | @Unstop Campus Ambassador | Full Stack Developer | C++ & Java Practitioner | System Thinker | Focused on Scalable Solutions | Lifelong Learner | Building Beyond Code",
+    linkedin: "www.linkedin.com/in/sauravofficial14/",
     joined: "October 2004",
   },
   photos: [
